@@ -5,7 +5,7 @@
 <div class="p-2 bg-[#111112]">
   <div class="flex items-center justify-between mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
     <div class="icon">
-      <img src="/favicon.png" alt="Logo" class="h-8 w-8" />
+      <img src="/gpt.png" alt="Logo" class="h-8 w-8" />
     </div>
     <ul class="flex items-center gap-4">
       <li>
