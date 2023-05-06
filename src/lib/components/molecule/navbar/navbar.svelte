@@ -14,7 +14,7 @@
     </Button>
 
     <Button color="transparent">
-      <IconPlus color="black" size={16} />
+      <IconPlus color="white" size={16} />
       Ajouter
     </Button>
   </div>
