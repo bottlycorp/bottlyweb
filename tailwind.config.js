@@ -7,13 +7,22 @@ export default {
     },
     extend: {
       colors: {
-        primary: "#6773DA",
+        primary: {
+          DEFAULT: "#6773DA",
+          1: "#5f6ac9",
+        },
         secondary: {
           DEFAULT: "#6A6A6A",
-          text: "#E6E6E6"
+          1: "#595959",
         },
-        gold: "#FDD64D",
-        danger: "#FF3366"
+        gold: {
+          DEFAULT: "#FDD64D",
+          1: "#e6c245",
+        },
+        danger: {
+          DEFAULT: "#FF3366",
+          1: "#ed3261",
+        }
       }
     }
   },

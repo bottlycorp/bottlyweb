@@ -5,7 +5,7 @@
 
 <div class="flex justify-between p-2">
   <div class="logo">
-    <h3 class="font-semibold">Bottly</h3>
+    <h3 class="font-semibold">B</h3>
   </div>
   <div class="buttons flex">
     <Button color="gold">
