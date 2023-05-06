@@ -9,7 +9,7 @@
   </div>
   <div class="buttons flex">
     <Button color="gold">
-      <IconCrown color="white" />
+      <IconCrown color="black" />
       Niveau supérieur
     </Button>
 

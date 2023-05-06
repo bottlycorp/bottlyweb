@@ -7,7 +7,7 @@
   export let disabled: boolean = false;
   export let onClick: () => void = () => {};
 
-  $: style = clsx("flex gap-3 items-center rounded-[5px] px-4 pt-1 pb-1 text-white text-sm font-medium border-none", {
+  $: style = clsx("flex gap-3 items-center rounded-[5px] px-4 pt-1 pb-1 text-sm font-medium border-none", {
     "bg-primary": color === "primary",
     "bg-primary cursor-not-allowed": color === "primary" && disabled,
     "bg-secondary": color === "secondary",
@@ -16,8 +16,8 @@
     "bg-danger cursor-not-allowed": color === "danger" && disabled,
     "bg-gold": color === "gold",
     "bg-gold cursor-not-allowed": color === "gold" && disabled,
-    "bg-transparent text-black": color === "transparent",
-    "bg-transparent cursor-not-allowed text-black": color === "transparent" && disabled
+    "bg-transparent text-white": color === "transparent",
+    "bg-transparent cursor-not-allowed text-white": color === "transparent" && disabled
   });
 </script>
 

@@ -12,7 +12,7 @@ export default {
           DEFAULT: "#6A6A6A",
           text: "#E6E6E6"
         },
-        gold: "#C1A951",
+        gold: "#FDD64D",
         danger: "#FF3366"
       }
     }
