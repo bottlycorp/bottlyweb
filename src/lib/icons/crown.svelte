@@ -1,5 +1,5 @@
 <script lang="ts">
-  export let size: 24 | 32 | 48 = 24;
+  export let size: 16 | 24 | 32 | 48 = 24;
   export let color: "white" | "black" = "white";
 </script>
 
