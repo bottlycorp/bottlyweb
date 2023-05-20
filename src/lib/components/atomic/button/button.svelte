@@ -5,6 +5,7 @@
   export let type: ButtonType = "button";
   export let color: ButtonColor = "transparent";
   export let disabled: boolean = false;
+  export let link: string = "";
   export let onClick: () => void = () => {};
 
   $: style = clsx("flex gap-3 items-center rounded-[5px] px-4 pt-1 pb-1 text-sm font-medium border-none", {
