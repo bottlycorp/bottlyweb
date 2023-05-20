@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import { Button } from "$lib/components/atomic/button";
   import { IconVote } from "$lib/icons";
 </script>
