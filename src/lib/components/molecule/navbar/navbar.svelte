@@ -13,7 +13,7 @@
 
     <Button color="transparent" onClick={() => window.open("https://discord.com/application-directory/1076862546658738236")}>
       <IconPlus color="white" size={16} />
-      Ajouter
+      Add to my server
     </Button>
   </div>
 </div>
