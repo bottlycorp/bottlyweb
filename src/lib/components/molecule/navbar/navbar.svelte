@@ -8,7 +8,7 @@
   <div class="buttons flex">
     <Button color="gold" onClick={() => window.open("https://buy.stripe.com/cN228B0tr6ru5zifYY")}>
       <IconCrown color="black" />
-      Upgrade to Premium
+      Upgrade
     </Button>
 
     <Button color="transparent" onClick={() => window.open("https://discord.com/application-directory/1076862546658738236")}>
