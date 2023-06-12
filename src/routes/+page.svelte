@@ -1,8 +1,7 @@
 <script>
-
-    import { features } from "./feature/[slug]/features";
-
+  import { features } from "./feature/[slug]/features";
 </script>
+
 <h1 class="flex text-[#DDDDDD] font-semibold text-xl md:text-3xl justify-center mb-3 mt-5">
   <span class="flex-col">
     Improve <img src="/yellow-gold.svg" alt="Bottly" class="absolute w-24 md:w-36" />
